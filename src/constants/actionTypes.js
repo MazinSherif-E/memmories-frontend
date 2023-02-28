@@ -1,0 +1,12 @@
+export const CREATE = 'CREATE';
+export const DELETE = 'DELETE';
+export const UPDATE = 'UPDATE';
+export const FETCH_ALL = 'FETCH_ALL';
+export const LIKE = 'LIKE';
+export const AUTH = 'AUTH';
+export const LOGOUT = 'LOGOUT';
+export const GET_USER = 'GET_USER';
+export const AUTH_FAIL = 'AUTH_FAIL';
+export const SEARH_POST = 'SEARH_POST';
+export const START_LOADING = 'START_LOADING';
+export const END_LOADING = 'END_LOADING';
